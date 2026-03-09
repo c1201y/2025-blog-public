@@ -1,5 +1,14 @@
 [
   {
+    "slug": "yz",
+    "title": "我的第一篇文章",
+    "tags": [],
+    "date": "2026-03-09T20:08",
+    "summary": "",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "椰汁",
     "title": "我的第一篇博客",
     "tags": [],
