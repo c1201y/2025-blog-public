@@ -1,5 +1,15 @@
 [
   {
+    "slug": "cyan",
+    "title": "Markdown",
+    "tags": [],
+    "date": "2026-03-15T12:35",
+    "summary": "Markdown语法教程",
+    "cover": "/blogs/cyan/52ab6a930996eccc.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "yz",
     "title": "我的第一篇文章",
     "tags": [],
