@@ -7,10 +7,17 @@
 		"stars": 5
 	},
 	{
-		"name": "椰汁の小站",
-		"avatar": "https://avatars.githubusercontent.com/u/202359413?v=4&size=64",
-		"url": "https://chch.dpdns.org",
-		"description": "我的个人主页～",
+		"name": "孟轩科技's blog",
+		"avatar": "https://blog.mxw2024.top/assets/images/favicon.ico",
+		"url": "https://blog.mxw2024.top/",
+		"description": "一个简洁、美观、纯净、无广告的小站",
+		"stars": 5
+	},
+	{
+		"name": "孟轩网的小站",
+		"avatar": "https://www.mxw2024.top/favicon.ico",
+		"url": "www.mxw2024.top",
+		"description": "一个简洁、美观、纯净、无广告的小站",
 		"stars": 5
 	}
 ]
