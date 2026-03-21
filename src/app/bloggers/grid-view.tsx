@@ -52,14 +52,14 @@ export default function GridView({ bloggers, isEditMode = false, onUpdate, onDel
 						className={`rounded-full px-4 py-1.5 text-sm transition-colors ${
 							selectedCategory === 'recent' ? 'bg-brand text-white' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
 						}`}>
-						近期更新
+						我的朋友
 					</button>
 					<button
 						onClick={() => setSelectedCategory('disconnected')}
 						className={`rounded-full px-4 py-1.5 text-sm transition-colors ${
 							selectedCategory === 'disconnected' ? 'bg-brand text-white' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
 						}`}>
-						长期失联
+						大佬膜拜
 					</button>
 				</div>
 			</div>
